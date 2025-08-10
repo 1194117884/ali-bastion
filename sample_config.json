@@ -1,0 +1,11 @@
+{
+  "hosts": {
+    "example-host": {
+      "name": "example-host",
+      "hostname": "192.168.1.100",
+      "port": 60022,
+      "username": "user",
+      "password": "plain_text_password_here"
+    }
+  }
+}
